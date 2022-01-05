@@ -1,0 +1,7 @@
+Nev		E-mail		Telefonszam	Egyenleg	Lekotes datuma	Kamat
+Bill Gates	bg@gmail.com	06206324999	950000		2018.11.15.	4
+Elon Musk	tesla@gmail.com	06706124914	990000		2012.10.12.	2
+Jeff Bezos	jeff@gmail.com	06201357963	620000		2016.02.02.	3
+Mark Zucki	mz@gmail.com	06306324911	700000		2017.04.04.	4
+Mezei Mark	mmr@gmail.com	06207777712	820000		2014.12.24.	10
+
